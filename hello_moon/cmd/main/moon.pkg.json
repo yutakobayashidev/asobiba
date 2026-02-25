@@ -1,0 +1,9 @@
+{
+  "is-main": true,
+  "import": [
+    {
+      "path": "username/hello_moon",
+      "alias": "lib"
+    }
+  ]
+}
